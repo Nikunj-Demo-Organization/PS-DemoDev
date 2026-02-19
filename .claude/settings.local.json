@@ -3,7 +3,10 @@
     "allow": [
       "mcp__claude_ai_Atlassian__getAccessibleAtlassianResources",
       "mcp__claude_ai_Atlassian__getJiraIssue",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "mcp__claude_ai_Atlassian__atlassianUserInfo",
+      "Bash(sf project deploy start:*)",
+      "Bash(sf project deploy report:*)"
     ]
   }
 }
